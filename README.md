@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1>🧑‍🦱Ola, eu sou Lucas Rafael</h1>
 
-<!--
-**DevLucasRDS/DevLucasRDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Desenvolvimento de Sistemas⚙️**
 
-Here are some ideas to get you started:
+**🔎Sobre mim**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou apaixonado por tecnologia desde criança. Programar é algo que amo fazer, por isso me identifico muito com o back-end. Estudo Desenvolvimento de Sistemas e pretendo cursar Análise e Desenvolvimento de Sistemas (ADS). Gosto especialmente de programar em Java e Python, sempre buscando evoluir e aprender mais.
+
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="160" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=DevLucasRDS&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
+<img 
+      alt="GitHub Stats" 
+      height="160" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasRDS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+  />
+
+📚 **Tecnologias que estou aprendendo:**
+<div style="display: inline_block">
+
+   <img align="center" width=40 heght=30 hspace=10 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+   <img align="center" width=40 heght=30 hspace=10 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+   <img align="center" width=40 heght=30 hspace=10 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+   <img align="center" width=40 heght=30 hspace=10 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+   <img align="center" width=40 heght=30 hspace=10 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+   <img align="center" width=40 heght=30 hspace=10 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  </div>
+</div>
