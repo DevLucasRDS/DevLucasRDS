@@ -4,7 +4,7 @@
 
 **🔎Sobre mim**
 
-Sou apaixonado por tecnologia desde criança. Programar é algo que amo fazer, por isso me identifico muito com o back-end. Estudo Desenvolvimento de Sistemas e pretendo cursar Análise e Desenvolvimento de Sistemas (ADS). Gosto especialmente de programar em Java e Python, sempre buscando evoluir e aprender mais.
+Sou apaixonado por tecnologia desde criança. Programar é algo que amo fazer, por isso me identifico muito com o back-end. Estudo Desenvolvimento de Sistemas e pretendo cursar Engenharia de Software. Gosto especialmente de programar em Java e Python, sempre buscando evoluir e aprender mais.
 
 <img 
     align="left" 
