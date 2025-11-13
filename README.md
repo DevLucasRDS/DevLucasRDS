@@ -29,5 +29,6 @@ Sou apaixonado por tecnologia desde criança. Programar é algo que amo fazer, p
    <img align="center" width=40 heght=30 hspace=10 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
    <img align="center" width=40 heght=30 hspace=10 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
    <img align="center" width=40 heght=30 hspace=10 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+   <img align="center" width=40 heght=30 hspace=10 src="https://www.svgrepo.com/show/376332/laravel.svg" />
   </div>
 </div>
